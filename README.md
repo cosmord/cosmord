@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,45:003b2f,100:00ff88&text=COSMORD&fontSize=68&fontColor=00ff88&fontAlignY=34&desc=Security%20Researcher%20·%20Android%20Developer%20·%20Privacy%20Advocate&descAlignY=56&descSize=17&animation=twinkling" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,45:003b2f,100:00ff88&text=Cosmord&fontSize=68&fontColor=00ff88&fontAlignY=34&desc=Security%20Researcher%20·%20Android%20Developer%20·%20Privacy%20Advocate&descAlignY=56&descSize=17&animation=twinkling" width="100%" alt="banner"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00FF88&center=true&vCenter=true&random=false&width=640&lines=Computer+Engineering+Student;Cybersecurity+%26+Ethical+Hacking;Android+Development+%26+Mobile+Security;Privacy+is+a+Human+Right;Open+Source+Advocate;Breaking+systems+to+understand+them)](https://github.com/cosmord)
 
